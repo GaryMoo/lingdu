@@ -4,11 +4,11 @@
       "key": "js豆瓣",
       "name": "︎凌渡GIT仓",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/douban.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/douban.js"
     },
 	{
       "key": "csp_KungFu404",
@@ -18,7 +18,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/alibaba.jar"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/alibaba.jar"
     },
     {
       "key": "玩偶哥哥",
@@ -29,7 +29,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/wanou.jar"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/wanou.jar"
     },
     {
       "key": "csp_WoGG",
@@ -38,7 +38,7 @@
       "api": "csp_WoGG",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -49,7 +49,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -60,7 +60,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -71,7 +71,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -82,7 +82,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -93,7 +93,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
     },
     {
@@ -104,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
@@ -115,7 +115,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
     },
     {
@@ -126,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
@@ -137,7 +137,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
@@ -148,7 +148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
@@ -159,7 +159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
@@ -258,8 +258,8 @@
       "key": "js_荐片",
       "name": "┃荐片┃1080P",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/荐片.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/荐片.js",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -279,31 +279,31 @@
       "key": "js_nangua",
       "name": "┃南瓜┃1080P",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/nangua.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/nangua.js"
     },
     {
       "key": "js_007",
       "name": "┃特工┃1080P",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/007.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/007.js"
     },
     {
       "key": "js_changmeng",
       "name": "┃畅梦┃1080P",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/changmeng.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/changmeng.js"
     },
     {
       "key": "csp_奇优",
@@ -313,8 +313,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/奇优影院.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/奇优影院.json"
     },
     {
       "key": "gszy",
@@ -430,8 +430,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/蘑菇.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/蘑菇.json"
     },
     {
       "key": "XBPQ_星辰",
@@ -441,8 +441,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/星辰影视.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/星辰影视.json"
     },
     {
       "key": "csp_aidi",
@@ -511,11 +511,11 @@
       "key": "js_轰轰",
       "name": "┃轰轰┃影视",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/hoho.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/hoho.js"
     },
     {
       "key": "益达影视",
@@ -535,18 +535,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/98影视.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/98影视.json"
     },
     {
       "key": "js_555",
       "name": "┃三五┃影视",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/555.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/555.js"
     },
     {
       "key": "csp_FreeOK",
@@ -556,8 +556,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/free.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/free.json"
     },
     {
       "key": "csp_YQKan",
@@ -567,27 +567,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
     },
     {
       "key": "js_czsapp",
       "name": "┃厂长┃影视",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/czspp.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/czspp.js"
     },
     {
       "key": "js_Lib",
       "name": "┃利奥┃影视",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/libvio.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/libvio.js"
     },
     {
       "key": "csp_MeiJu69",
@@ -603,11 +603,11 @@
       "key": "js_ddys",
       "name": "┃低端┃影视",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/ddys.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ddys.js"
     },
     {
       "key": "Kuaikan",
@@ -625,18 +625,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/saohuo.js"
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/saohuo.js"
     },
     {
       "key": "js_电影先生",
       "name": "┃电影┃影视",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/电影先生.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/电影先生.js"
     },
     {
       "key": "csp_胖虎",
@@ -646,18 +646,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/胖虎.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/胖虎.json"
     },
     {
       "key": "js_Xinsj",
       "name": "┃视觉┃影视",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/xsj.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/xsj.js"
     },
     {
       "key": "csp_Btwtoo",
@@ -676,7 +676,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/达达龟.json"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/达达龟.json"
     },
     {
       "key": "zy_新浪",
@@ -712,31 +712,31 @@
       "key": "js_6V",
       "name": "┃六维┃磁力",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/6V.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/6V.js"
     },
     {
       "key": "js_磁力熊",
       "name": "‍┃贝尔┃磁力",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/bear.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/bear.js"
     },
     {
       "key": "js_酷吧",
       "name": "┃酷吧┃磁力",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/kuba.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/kuba.js"
     },
     {
       "key": "XYQH_电影港",
@@ -744,8 +744,8 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/港口.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/港口.json"
     },
     {
       "key": "csp_XYQHiker_‍dyx",
@@ -755,8 +755,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/dyg.json",
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/dyg.json",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
       "key": "4KHDR",
@@ -765,8 +765,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/4KHDR.js"
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/4KHDR.js"
     },
     {
       "key": "短剧网",
@@ -776,7 +776,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
     {
       "key": "横版影院",
@@ -789,7 +789,7 @@
       "categories": [
         "短剧"
       ],
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
     {
       "key": "csp_AppYsV2_Mxone",
@@ -800,7 +800,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/",
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
     {
       "key": "csp_Bili短剧",
@@ -810,15 +810,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/Bili短剧.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/Bili短剧.json"
     },
     {
       "key": "XBPQ_葡萄",
       "name": "┃葡萄┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": {
         "数组": "class=\"stui-vodlist__box&&</li",
         "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
@@ -829,11 +829,11 @@
       "key": "js_DJ5",
       "name": "┃迪哲┃短剧",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/短剧网.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/短剧网.js"
     },
     {
       "key": "csp_XYQHiker_VSYY",
@@ -843,8 +843,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XYQHiker",
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/VS影院.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/VS影院.json"
     },
     {
       "key": "csp_XBPQ_aoaotv",
@@ -854,7 +854,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": {
         "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
         "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
@@ -864,18 +864,18 @@
       "key": "js58",
       "name": "┃五八┃动漫",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/58动漫.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/58动漫.js"
     },
     {
       "key": "蓝猫动漫",
       "name": "┃蓝猫┃动漫",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
     },
     {
@@ -886,7 +886,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/动漫巴士.json"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/动漫巴士.json"
     },
     {
       "key": "py_huya",
@@ -896,7 +896,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/pyhuya.py"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/pyhuya.py"
     },
     {
       "key": "csp_鹅直播",
@@ -906,7 +906,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/qie.json"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/qie.json"
     },
     {
       "key": "csp_17看球",
@@ -916,33 +916,33 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/看球.json"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/看球.json"
     },
     {
       "key": "js_310直播",
       "name": "┃三一┃直播",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/310.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/310.js"
     },
     {
       "key": "js_哔哩直播",
       "name": "┃哔哩┃直播",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/哔哩直播.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/哔哩直播.js"
     },
     {
       "key": "js_酷狗MV",
       "name": "┃酷狗┃音乐",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -952,11 +952,11 @@
       "key": "js_a8音乐",
       "name": "┃奥迪┃音乐",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/a8音乐.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/a8音乐.js"
     },
     {
       "key": "csp_酷奇",
@@ -966,8 +966,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/酷奇MV.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/酷奇MV.json"
     },
     {
       "key": "MV_vod",
@@ -986,8 +986,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/mtv.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/mtv.json"
     },
     {
       "key": "csp_Bili_Yinl2",
@@ -997,8 +997,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/yinyue.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/yinyue.json"
     },
     {
       "key": "MV_vod",
@@ -1020,7 +1020,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/qie.py"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/qie.py"
     },
     {
       "key": "csp_Bili_FBqx",
@@ -1030,18 +1030,18 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/qiudui.json"
     },
     {
       "key": "js_88看球",
       "name": "┃八八┃体育",
       "type": 3,
-      "api": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/88看球.js"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/88看球.js"
     },
     {
       "key": "Bili",
@@ -1050,7 +1050,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/bili.json"
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/bili.json"
     },
     {
       "key": "csp_Bili_xiangsh",
@@ -1060,8 +1060,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lib/xiaopin.json"
+      "jar": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/xiaopin.json"
     }
   ],
   "lives": [
@@ -1069,7 +1069,7 @@
             "name": "ceshi",
             "type": 0,
             "playerType": 1,
-            "url": "https://codeberg.org/lingdu/tvbox/raw/branch/main/lives/ceshi.txt",
+            "url": "https://raw.githubusercontent.com/GaryMoo/lingdu/main/lives/ceshi.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
