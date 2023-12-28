@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "︎凌渡GIT仓",
+      "name": "︎凌渡私用︎",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 0,
@@ -10,7 +10,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/douban.js"
     },
-	{
+    {
       "key": "csp_KungFu404",
       "name": "阿里设置",
       "type": 3,
@@ -27,9 +27,10 @@
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
+	  "filterable":1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/wanou.jar"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar"
     },
     {
       "key": "csp_WoGG",
@@ -38,8 +39,30 @@
       "api": "csp_WoGG",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+	{
+      "key": "开心玩偶",
+      "name": "┃开偶┃4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/开心.jar;md5;0ab5d5c3db5f5d26ea4f44d2278b87ac",
+      "ext": {
+                "二次截取": "1&&-1+module-item-cover",
+                "数组": "module-item-pic&&module-item-cover",
+                "副标题": "module-item-text*>&&<",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "简介": "剧情：&&</div>",
+                "搜索url": "http://www.214728327.xyz:56708/index.php/vodsearch/-------------.html?wd={wd}",
+                "分类url": "http://www.214728327.xyz:56708/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html;;阿里",
+                "阿里token": "http://127.0.0.1:9978/file/tvbox/token.txt",
+                "分类": "电影$1#剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"
+            }
     },
     {
       "key": "PanSearch",
@@ -49,7 +72,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -60,18 +83,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "Alips",
-      "name": "┃阿里┃4K",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -82,30 +94,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "┃多多┃4K",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
-    },
-    {
-      "key": "YiSo",
-      "name": "┃Yi搜┃4K",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "Zhaozy",
@@ -115,8 +105,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9$$$66666"
     },
     {
       "key": "PanSou",
@@ -126,30 +115,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "UpYun",
-      "name": "┃Up搜┃4K",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "PanSearch",
-      "name": "┃盘Se┃4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "七夜",
@@ -159,8 +126,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key":"py_ali",
@@ -170,7 +137,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt","thread":"10"}
+      "ext":{"token":"http://127.0.0.1:9978/file/tvbox/token.txt","thread":"10"}
     },
     {
       "key":"AList",
@@ -178,7 +145,7 @@
       "type":3,
       "api":"csp_AList",
       "searchable":1,
-      "changeable":1,
+      "changeable":0,
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/alist.json"
     },
     {
@@ -263,15 +230,6 @@
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/tokenm.json"
     },
     {
-      "key":"UpYun",
-      "name":"┃UP搜┃阿里",
-      "type":3,
-      "api":"csp_UpYun",
-      "searchable":1,
-      "changeable":1,
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/tokenm.json"
-    },
-    {
       "key":"PanSou",
       "name":"┃盘搜┃阿里",
       "type":3,
@@ -333,7 +291,351 @@
       "changeable":1,
       "api":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/apiv73drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/qimiao.js"
-    },	  
+    },
+	{
+      "key": "天天开心自营",
+      "name": "┃天天┃1080P",
+      "type": 1,
+      "api": "http://www.ttkx.site/api.php/provide/vod/"
+    },
+	{
+	  "key": "开心五合一",
+	  "name": "┃五合┃1080P",
+	  "type": 1,
+	  "api": "http://www.ttkx.site:33/api.php/provide/vod/",
+	  "playerType": 2,
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "categories": ["动作片","战争片","国产剧","港台剧","日韩剧","欧美剧","国产动漫","动漫","综艺","日韩动漫","港台动漫","动画片","短剧","国产综艺","喜剧片","爱情片","科幻片","恐怖片","剧情片","灾难片","悬疑片","犯罪片","奇幻片","纪录片"]
+	},
+	{
+      "key": "熊掌",
+      "name": "┃熊掌┃1080P",
+      "type": 1,
+      "api": "https://xzcjz.com/api.php/provide/vod"
+    },
+	{
+	  "key": "海星影视",
+	  "name": "┃海星┃1080P",
+	  "type": 3,
+	  "api": "csp_XBPQ",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/haixingys.json"
+	},
+	{
+      "key": "开心果",
+	  "name": "┃心果┃1080P",
+	  "type": 3,
+	  "api": "csp_AppYsV2",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+	},
+	{
+      "key": "A8影视",
+	  "name": "┃A 8┃1080P",
+	  "type": 3,
+	  "api": "csp_AppYs",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
+	},
+    {
+	  "key":"csp_大师兄",
+	  "name":"┃师兄┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/dsxys.json"
+	},
+    {	
+      "key":"csp_星辰",
+	  "name":"┃星晨┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/xcys.json"
+	},
+	{
+      "key":"csp_vs",
+	  "name":"┃V S┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/vsys.json"
+	},
+    {
+	  "key":"csp_xBPQ_九八",
+	  "name":"┃九八┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/98.json"
+	},
+    {
+	  "key":"csp_xBPQ_疯狗",
+	  "name":"┃疯狗┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/fgys.json"
+	},
+    {
+	  "key":"csp_五五",
+	  "name":"┃五五┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/55.json"
+	},
+    {
+	  "key":"农民影视",
+	  "name":"┃农民┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/nongmin.json"
+	},
+    {
+	  "key": "奈飞影视",
+	  "name":"┃奈飞┃1080P",
+	  "type":3,
+	  "api":"csp_XYQHiker",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ynfys.json"
+	},
+    {
+	  "key": "奈飞中文",
+	  "name":"┃奈中┃1080P",
+	  "type":3,
+	  "api":"csp_XYQHiker",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/nfzw.json"
+	},
+    {
+	  "key": "兄弟影视",
+	  "name":"┃兄弟┃1080P",
+	  "type":3,
+	  "api":"csp_XYQHiker",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/xdys.json"
+	},
+    {
+	  "key":"csp_盒子",
+	  "name":"┃盒子┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/hezi.json"
+	},
+    {
+	  "key":"348影视",
+	  "name":"┃348┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/348.json"
+	},
+    {
+	  "key":"csp_Free",
+	  "name":"┃Free┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/Free.json"
+	},
+    {
+	  "key":"csp_007",
+	  "name":"┃007┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/007.json"
+	},
+    {
+	  "key":"子子影视",
+	  "name":"┃子子┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/zizi.json"
+	},
+    {
+	  "key": "低端影视",
+	  "name": "┃低端┃1080P",
+	  "type": 3,
+	  "api": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ddys.js"
+	},
+    {
+	  "key":"csp_苹果",
+	  "name":"┃苹果┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/pingguo.json"
+	},
+    {
+	  "key": "csp_黑狐",
+	  "name": "┃黑狐┃1080P",
+	  "type": 3,
+	  "api": "csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/heihu.json"
+	},
+    {
+	  "key":"csp_xBPQ_奇优",
+	  "name":"┃奇优┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/qiyou.json"
+	},
+    {
+	  "key":"91影视",
+	  "name":"┃九一┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/91ys.json"
+	},
+    {
+	  "key": "酷茶影视",
+	  "name": "┃酷茶┃1080P",
+	  "type": 3,
+	  "api": "csp_XBPQ",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/kucha.json"
+	},
+    {
+	  "key":"光棍影视",
+	  "name":"┃光棍┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/guangun.json"
+	},
+    {
+	  "key": "xgapp",
+	  "name": "┃西瓜┃1080P",
+	  "type": 3,
+	  "playerType": 2,
+	  "api": "csp_AppYsV2",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+	},
+    {
+	  "key":"csp_好戏",
+	  "name":"┃好戏┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/haoxiys.json"
+	},
+    {
+	  "key": "VIP影视",
+	  "name": "┃VIP┃1080P",
+	  "type": 3,
+	  "api": "csp_XPath",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 0,
+	  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/VIPyingshi.json"
+	},
+    {
+	  "key":"csp_七月",
+	  "name":"┃七月┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/qiyue.json"
+	},
+    {
+	  "key":"影视工厂",
+	  "name":"┃工厂┃1080P",
+	  "type":3,
+	  "api":"csp_XYQHiker",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/yingshigongchang.json"
+	},
+    {
+	  "key": "七新影视",
+	  "name":"┃七新┃1080P",
+	  "type":3,
+	  "api":"csp_XYQHiker",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/qixinyingshi.json"
+	},
+    {
+	  "key":"土豪影视",
+	  "name":"┃土豪┃1080P",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/tuhaoys.json"
+	},
     {
       "key": "鑫鑫影视",
       "name": "┃鑫鑫┃1080P",
@@ -485,7 +787,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/奇优影院.json"
     },
     {
@@ -602,7 +904,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/蘑菇.json"
     },
     {
@@ -613,7 +915,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/星辰影视.json"
     },
     {
@@ -707,7 +1009,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/98影视.json"
     },
     {
@@ -728,7 +1030,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/free.json"
     },
     {
@@ -739,7 +1041,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9"
     },
     {
       "key": "js_czsapp",
@@ -818,7 +1120,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/胖虎.json"
     },
     {
@@ -1241,7 +1543,7 @@
             "name": "ceshi",
             "type": 0,
             "playerType": 1,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lives/ceshi.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lives/ceshi.txt?ref_type=heads",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
@@ -1912,5 +2214,5 @@
   ],
   "wallpaper": "https://tool.weetai.cn/api",
   "warningText": "凌渡接口免费维护",
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/custom_spider.jar;md5;96a99e445d620353890869d95755b890"
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd"
 }
