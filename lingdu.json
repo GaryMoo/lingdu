@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "︎凌渡私用︎",
+      "name": "︎凌渡GIT仓",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/lib/drpy2.min.js",
       "searchable": 0,
