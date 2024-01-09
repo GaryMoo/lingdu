@@ -2227,5 +2227,5 @@
   ],
   "wallpaper": "https://tool.weetai.cn/api",
   "warningText": "凌渡接口免费维护",
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/spider/lingdi.jar;md5;c253e1930a210fa5141e5418f1f90949"
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/GaryMoo/lingdu/main/spider/pg.jar;md5;c253e1930a210fa5141e5418f1f90949"
 }
