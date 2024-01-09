@@ -10,6 +10,14 @@
       }
     },
     {
+      "name": "小雅",
+      "server": "http://60.204.139.228:5678"
+    },
+    {
+      "name": "触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
       "name": "ECVE",
       "server": "https://pan.ecve.cn"
     },
